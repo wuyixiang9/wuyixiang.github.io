@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://limibee.com/"/>
+  <updated>2017-08-31T03:54:50.000Z</updated>
+  <id>http://limibee.com/</id>
+  
+  <author>
+    <name>Yixiang Wu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello-world</title>
+    <link href="http://limibee.com/2017/08/31/hello-world/"/>
+    <id>http://limibee.com/2017/08/31/hello-world/</id>
+    <published>2017-08-31T03:54:50.000Z</published>
+    <updated>2017-08-31T03:54:50.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
